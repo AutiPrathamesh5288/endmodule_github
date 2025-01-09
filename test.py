@@ -1,2 +1,2 @@
-sum = a+b;
-print(sum);
+mult = a*b;
+print(mult);
